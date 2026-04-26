@@ -1,0 +1,12 @@
+faiss-cpu
+sentence-transformers
+transformers
+torch
+dotenv
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-faiss
+langchain-text-splitters
+streamlit
